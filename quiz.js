@@ -1,0 +1,31 @@
+let questions = [{
+        question: "¿De que color es el cielo?",
+        imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThsaeyDT71T-qOYezUyEJ-RkGqqfRx-N8tmg&usqp=CAU",
+        respuesta: "Azul",
+        choices: ["amarillo", "verde", "rojo"],
+    },
+    {
+        question: "¿Quien vive bajo el agua?",
+        ayuda: "Hay muchisimos",
+        ayudaImg: "https://us.123rf.com/450wm/ddraw/ddraw1305/ddraw130500011/19635201-familia-de-peces-divertido-en-el-mar-vector-ilustraci%C3%B3n-y-el-dibujo-.jpg",
+        imagen: "https://us.123rf.com/450wm/clairev/clairev1303/clairev130300015/18559623-arrecife-de-coral-tema-image-3-ilustraci%C3%B3n-vectorial.jpg",
+        respuesta: "Peces",
+        choices: ["Caballo", "Perro", "Gato"],
+    },
+    {
+        question: "¿El papa de tu papa es tu...?",
+        ayuda: "Abu",
+        imagen: "https://i.pinimg.com/474x/8f/e0/07/8fe0070d4e6de1e528da9265bc40c1cf.jpg",
+        ayudaImg: "https://i.pinimg.com/originals/44/63/dc/4463dcdb65252920e5d63490ceb1bd91.png",
+        respuesta: "Abuelo",
+        choices: ["Primo", "Hermano", "Tio"],
+    },
+    {
+        question: "¿Que hay que hacer antes de  comer?",
+        imagen: "https://cpdelicias.educarex.es/images/AULAMATINAL.jpg",
+        ayuda: "Bien limpitas",
+        ayudaImg: "https://image.shutterstock.com/image-illustration/hand-wash-cute-children-standing-260nw-1739968013.jpg",
+        respuesta: "lavarse las manos",
+        choices: ["jugar en el piso", "ensuciarse las manos", "jugar con mis mascotas"],
+    },
+];

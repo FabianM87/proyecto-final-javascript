@@ -1,0 +1,61 @@
+* {
+    transition: all 0.25s;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(80, 15, 148);
+    background-image: url(https://img.freepik.com/vector-gratis/parque-infantil-parque-verano-carrusel_107791-1361.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-size: 120%;
+}
+
+.swal2-styled.swal2-confirm {
+    background-color: rgb(144, 179, 54);
+    border-radius: 10px;
+    margin: 15px;
+    padding: 15px;
+}
+
+table {
+    background-color: rgba(255, 200, 0, 0.456);
+}
+
+table thead {
+    background: #ab871d;
+    color: white;
+}
+
+#encabezado {
+    width: 50vw;
+    min-height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: rgba(232, 217, 196, 0.596);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.opcion {
+    text-align: center;
+    width: 50vw;
+    background: rgba(232, 217, 196, 0.596);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.opcion:hover {
+    background: rgb(226, 104, 17);
+}
